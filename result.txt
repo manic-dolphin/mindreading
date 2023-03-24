@@ -1,0 +1,274 @@
+withDumaLayer
+seed:tensor([2346])  batchsize:24  testacc:93.12996031746032
+withDumaLayer
+seed:tensor([1800])  batchsize:24  testacc:94.96527777777777
+withDumaLayer
+seed:tensor([3540])  batchsize:24  testacc:96.70138888888889
+withDumaLayer
+seed:tensor([2141])  batchsize:24  testacc:93.57638888888889
+withDumaLayer
+seed:tensor([2661])  batchsize:24  testacc:94.44444444444444
+withDumaLayer
+seed:tensor([3893])  batchsize:24  testacc:96.00694444444444
+withDumaLayer
+seed:tensor([1200])  batchsize:24  testacc:93.65079365079366
+withDumaLayer
+seed:tensor([2316])  batchsize:24  testacc:92.08829365079366
+withDumaLayer
+seed:tensor([3761])  batchsize:24  testacc:94.96527777777777
+withDumaLayer
+seed:tensor([3566])  batchsize:24  testacc:93.65079365079366
+withDumaLayer
+seed:tensor([958])  batchsize:24  testacc:92.95634920634922
+withDumaLayer
+seed:tensor([4518])  batchsize:24  testacc:94.27083333333333
+withDumaLayer
+seed:tensor([4445])  batchsize:24  testacc:95.21329365079366
+withDumaLayer
+seed:tensor([1032])  batchsize:24  testacc:95.13888888888889
+withDumaLayer
+seed:tensor([799])  batchsize:24  testacc:93.57638888888889
+withDumaLayer
+seed:tensor([1879])  batchsize:24  testacc:95.65972222222223
+withDumaLayer
+seed:tensor([3771])  batchsize:24  testacc:96.35416666666667
+withDumaLayer
+seed:tensor([3856])  batchsize:24  testacc:93.65079365079366
+withDumaLayer
+seed:tensor([2636])  batchsize:24  testacc:94.79166666666667
+withDumaLayer
+seed:tensor([1909])  batchsize:24  testacc:95.3125
+withDumaLayer
+seed:tensor([1307])  batchsize:24  testacc:94.44444444444444
+withDumaLayer
+seed:tensor([3823])  batchsize:24  testacc:95.13888888888889
+withDumaLayer
+seed:tensor([3248])  batchsize:24  testacc:93.99801587301587
+withDumaLayer
+seed:tensor([3287])  batchsize:24  testacc:93.22916666666667
+withDumaLayer
+seed:tensor([4373])  batchsize:24  testacc:92.95634920634922
+withDumaLayer
+seed:tensor([1495])  batchsize:24  testacc:93.65079365079366
+withDumaLayer
+seed:tensor([555])  batchsize:24  testacc:93.57638888888889
+withDumaLayer
+seed:tensor([2937])  batchsize:24  testacc:93.92361111111111
+withDumaLayer
+seed:tensor([4468])  batchsize:24  testacc:92.1626984126984
+withDumaLayer
+seed:tensor([2386])  batchsize:24  testacc:94.79166666666667
+withDumaLayer
+seed:tensor([3581])  batchsize:24  testacc:94.61805555555556
+withDumaLayer
+seed:tensor([4795])  batchsize:24  testacc:94.61805555555556
+withDumaLayer
+seed:tensor([3972])  batchsize:24  testacc:95.13888888888889
+withDumaLayer
+seed:tensor([2944])  batchsize:24  testacc:95.13888888888889
+withDumaLayer
+seed:tensor([4404])  batchsize:24  testacc:93.92361111111111
+withDumaLayer
+seed:tensor([4256])  batchsize:24  testacc:93.05555555555556
+withDumaLayer
+seed:tensor([3373])  batchsize:24  testacc:94.27083333333333
+withDumaLayer
+seed:tensor([641])  batchsize:24  testacc:92.26190476190476
+withDumaLayer
+seed:tensor([1284])  batchsize:24  testacc:93.22916666666667
+withDumaLayer
+seed:tensor([3185])  batchsize:24  testacc:94.69246031746032
+withDumaLayer
+seed:tensor([3739])  batchsize:24  testacc:92.53472222222223
+withDumaLayer
+seed:tensor([1585])  batchsize:24  testacc:92.33630952380952
+withDumaLayer
+seed:tensor([3141])  batchsize:24  testacc:92.08829365079366
+withDumaLayer
+seed:tensor([2320])  batchsize:24  testacc:94.27083333333333
+withDumaLayer
+seed:tensor([3752])  batchsize:24  testacc:94.27083333333333
+withDumaLayer
+seed:tensor([4514])  batchsize:24  testacc:94.61805555555556
+withDumaLayer
+seed:tensor([4599])  batchsize:24  testacc:95.48611111111111
+withDumaLayer
+seed:tensor([948])  batchsize:24  testacc:94.09722222222223
+withDumaLayer
+seed:tensor([572])  batchsize:24  testacc:92.70833333333333
+withDumaLayer
+seed:tensor([1638])  batchsize:24  testacc:94.51884920634922
+withDumaLayer
+seed:tensor([1234])  batchsize:24  testacc:94.69246031746032
+withDumaLayer
+seed:tensor([1439])  batchsize:24  testacc:94.61805555555556
+withDumaLayer
+seed:tensor([1861])  batchsize:24  testacc:93.12996031746032
+withDumaLayer
+seed:tensor([2870])  batchsize:24  testacc:93.05555555555556
+withDumaLayer
+seed:tensor([4940])  batchsize:24  testacc:93.65079365079366
+withDumaLayer
+seed:tensor([1643])  batchsize:24  testacc:94.44444444444444
+withDumaLayer
+seed:tensor([3545])  batchsize:24  testacc:93.7251984126984
+withDumaLayer
+seed:tensor([620])  batchsize:24  testacc:94.44444444444444
+withDumaLayer
+seed:tensor([4007])  batchsize:24  testacc:94.44444444444444
+withDumaLayer
+seed:tensor([2730])  batchsize:24  testacc:94.44444444444444
+withDumaLayer
+seed:tensor([1681])  batchsize:24  testacc:94.27083333333333
+withDumaLayer
+seed:tensor([2708])  batchsize:24  testacc:91.31944444444444
+withDumaLayer
+seed:tensor([2436])  batchsize:24  testacc:93.57638888888889
+withDumaLayer
+seed:tensor([4815])  batchsize:24  testacc:94.61805555555556
+withDumaLayer
+seed:tensor([4468])  batchsize:24  testacc:92.1626984126984
+withDumaLayer
+seed:tensor([1320])  batchsize:24  testacc:93.30357142857143
+withDumaLayer
+seed:tensor([1323])  batchsize:24  testacc:92.88194444444444
+withDumaLayer
+seed:tensor([3787])  batchsize:24  testacc:92.53472222222223
+withDumaLayer
+seed:tensor([4523])  batchsize:24  testacc:91.98908730158729
+withDumaLayer
+seed:tensor([653])  batchsize:24  testacc:93.40277777777777
+withDumaLayer
+seed:tensor([2488])  batchsize:24  testacc:93.37797619047619
+withDumaLayer
+seed:tensor([4251])  batchsize:24  testacc:92.88194444444444
+withDumaLayer
+seed:tensor([1212])  batchsize:24  testacc:93.05555555555556
+withDumaLayer
+seed:tensor([3204])  batchsize:24  testacc:96.00694444444444
+withDumaLayer
+seed:tensor([1748])  batchsize:24  testacc:92.26190476190476
+withDumaLayer
+seed:tensor([4223])  batchsize:24  testacc:94.96527777777777
+withDumaLayer
+seed:tensor([4092])  batchsize:24  testacc:92.7827380952381
+withDumaLayer
+seed:tensor([616])  batchsize:24  testacc:93.75
+withDumaLayer
+seed:tensor([1137])  batchsize:24  testacc:94.79166666666667
+withDumaLayer
+seed:tensor([4011])  batchsize:24  testacc:94.79166666666667
+withDumaLayer
+seed:tensor([3415])  batchsize:24  testacc:92.60912698412699
+withDumaLayer
+seed:tensor([3601])  batchsize:24  testacc:94.61805555555556
+withDumaLayer
+seed:tensor([743])  batchsize:24  testacc:93.92361111111111
+withDumaLayer
+seed:tensor([4532])  batchsize:24  testacc:92.95634920634922
+withDumaLayer
+seed:tensor([3125])  batchsize:24  testacc:93.75
+withDumaLayer
+seed:tensor([4536])  batchsize:24  testacc:93.12996031746032
+withDumaLayer
+seed:tensor([3611])  batchsize:24  testacc:92.70833333333333
+withDumaLayer
+seed:tensor([3584])  batchsize:24  testacc:93.40277777777777
+withDumaLayer
+seed:tensor([4456])  batchsize:24  testacc:93.47718253968254
+withDumaLayer
+seed:tensor([4869])  batchsize:24  testacc:92.88194444444444
+withDumaLayer
+seed:tensor([1508])  batchsize:24  testacc:94.09722222222223
+withDumaLayer
+seed:tensor([3518])  batchsize:24  testacc:94.96527777777777
+withDumaLayer
+seed:tensor([3518])  batchsize:24  testacc:94.96527777777777
+withDumaLayer
+seed:tensor([3525])  batchsize:24  testacc:93.99801587301587
+withDumaLayer
+seed:tensor([525])  batchsize:24  testacc:96.00694444444444
+withDumaLayer
+seed:tensor([2912])  batchsize:24  testacc:93.12996031746032
+withDumaLayer
+seed:tensor([2885])  batchsize:24  testacc:93.22916666666667
+withDumaLayer
+seed:tensor([3181])  batchsize:24  testacc:92.88194444444444
+withDumaLayer
+seed:tensor([3976])  batchsize:24  testacc:94.79166666666667
+withDumaLayer
+seed:tensor([2704])  batchsize:24  testacc:94.61805555555556
+withDumaLayer
+seed:tensor([1188])  batchsize:24  testacc:93.40277777777777
+withDumaLayer
+seed:tensor([3117])  batchsize:24  testacc:92.70833333333333
+withDumaLayer
+seed:tensor([3604])  batchsize:24  testacc:91.91468253968254
+withDumaLayer
+seed:tensor([1105])  batchsize:24  testacc:93.12996031746032
+withDumaLayer
+seed:tensor([2606])  batchsize:24  testacc:92.95634920634922
+withDumaLayer
+seed:tensor([2075])  batchsize:24  testacc:94.27083333333333
+withDumaLayer
+seed:tensor([4374])  batchsize:24  testacc:95.3125
+withDumaLayer
+seed:tensor([2414])  batchsize:24  testacc:93.40277777777777
+withDumaLayer
+seed:tensor([3631])  batchsize:24  testacc:94.27083333333333
+withDumaLayer
+seed:tensor([2789])  batchsize:24  testacc:94.44444444444444
+withDumaLayer
+seed:tensor([4822])  batchsize:24  testacc:93.47718253968254
+withDumaLayer
+seed:tensor([1204])  batchsize:24  testacc:90.77380952380952
+withDumaLayer
+seed:tensor([4946])  batchsize:24  testacc:93.20436507936508
+withDumaLayer
+seed:tensor([4135])  batchsize:24  testacc:95.3125
+withDumaLayer
+seed:tensor([717])  batchsize:24  testacc:93.99801587301587
+withDumaLayer
+seed:tensor([3022])  batchsize:24  testacc:95.48611111111111
+withDumaLayer
+seed:tensor([3746])  batchsize:24  testacc:95.3125
+withDumaLayer
+seed:tensor([2153])  batchsize:24  testacc:92.7827380952381
+withDumaLayer
+seed:tensor([869])  batchsize:24  testacc:93.30357142857143
+withDumaLayer
+seed:tensor([2235])  batchsize:24  testacc:92.33630952380952
+withDumaLayer
+seed:tensor([4887])  batchsize:24  testacc:94.17162698412699
+withDumaLayer
+seed:tensor([2604])  batchsize:24  testacc:91.74107142857143
+withDumaLayer
+seed:tensor([4575])  batchsize:24  testacc:93.92361111111111
+withDumaLayer
+seed:tensor([4627])  batchsize:24  testacc:93.22916666666667
+withDumaLayer
+seed:tensor([617])  batchsize:24  testacc:92.08829365079366
+withDumaLayer
+seed:tensor([3618])  batchsize:24  testacc:92.70833333333333
+withDumaLayer
+seed:tensor([4831])  batchsize:24  testacc:94.61805555555556
+withDumaLayer
+seed:tensor([3205])  batchsize:24  testacc:92.43551587301587
+withDumaLayer
+seed:tensor([4212])  batchsize:24  testacc:93.92361111111111
+withDumaLayer
+seed:tensor([1668])  batchsize:24  testacc:93.92361111111111
+withDumaLayer
+seed:tensor([3335])  batchsize:24  testacc:93.82440476190476
+withDumaLayer
+seed:tensor([767])  batchsize:24  testacc:93.57638888888889
+withDumaLayer
+seed:tensor([1937])  batchsize:24  testacc:49.45436507936508
+withDumaLayer
+seed:tensor([3844])  batchsize:24  testacc:34.226190476190474
+withDumaLayer
+seed:tensor([1408])  batchsize:24  testacc:48.38789682539683
+withDumaLayer
+seed:tensor([3499])  batchsize:24  testacc:20.85813492063492
+withDumaLayer
+seed:tensor([1633])  batchsize:24  testacc:96.70138888888889
